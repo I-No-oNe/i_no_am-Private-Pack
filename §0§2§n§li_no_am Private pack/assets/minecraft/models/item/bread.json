@@ -1,0 +1,219 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bread"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/bread/beef_taco"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/bread/pork_taco"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/bread/chicken_taco"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/bread/fish_taco"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/bread/beef_wellington"
+		},
+		{
+			"predicate": {
+				"eating": 1,
+				"eat": 0.35
+			},
+			"model": "item/bread_eating_0"
+		},
+		{
+			"predicate": {
+				"eating": 1,
+				"eat": 0.7
+			},
+			"model": "item/bread_eating_1"
+		},
+		{
+			"predicate": {
+				"eating": 1,
+				"eat": 0.9
+			},
+			"model": "item/bread_eating_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1,
+				"eating": 0,
+				"eat": 0
+			},
+			"model": "item/bread/beef_taco"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2,
+				"eating": 0,
+				"eat": 0
+			},
+			"model": "item/bread/pork_taco"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"eating": 0,
+				"eat": 0
+			},
+			"model": "item/bread/chicken_taco"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4,
+				"eating": 0,
+				"eat": 0
+			},
+			"model": "item/bread/fish_taco"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5,
+				"eating": 0,
+				"eat": 0
+			},
+			"model": "item/bread/beef_wellington"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1,
+				"eating": 1,
+				"eat": 0.35
+			},
+			"model": "item/bread/eat/beef_taco_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1,
+				"eating": 1,
+				"eat": 0.7
+			},
+			"model": "item/bread/eat/beef_taco_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1,
+				"eating": 1,
+				"eat": 0.9
+			},
+			"model": "item/bread/eat/beef_taco_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2,
+				"eating": 1,
+				"eat": 0.35
+			},
+			"model": "item/bread/eat/pork_taco_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2,
+				"eating": 1,
+				"eat": 0.7
+			},
+			"model": "item/bread/eat/pork_taco_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2,
+				"eating": 1,
+				"eat": 0.9
+			},
+			"model": "item/bread/eat/pork_taco_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"eating": 1,
+				"eat": 0.35
+			},
+			"model": "item/bread/eat/chicken_taco_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"eating": 1,
+				"eat": 0.7
+			},
+			"model": "item/bread/eat/chicken_taco_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"eating": 1,
+				"eat": 0.9
+			},
+			"model": "item/bread/eat/chicken_taco_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4,
+				"eating": 1,
+				"eat": 0.35
+			},
+			"model": "item/bread/eat/fish_taco_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4,
+				"eating": 1,
+				"eat": 0.7
+			},
+			"model": "item/bread/eat/fish_taco_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4,
+				"eating": 1,
+				"eat": 0.9
+			},
+			"model": "item/bread/eat/fish_taco_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5,
+				"eating": 1,
+				"eat": 0.35
+			},
+			"model": "item/bread/eat/beef_wellington_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5,
+				"eating": 1,
+				"eat": 0.7
+			},
+			"model": "item/bread/eat/beef_wellington_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5,
+				"eating": 1,
+				"eat": 0.9
+			},
+			"model": "item/bread/eat/beef_wellington_2"
+		}
+	]
+}
